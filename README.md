@@ -1,5 +1,6 @@
-# Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
+# 改良版Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 
+从成本构成上，可以看到机械臂，边缘计算占据了大部分成本，因此希望在这两方面进行改良，进一步降低制作门槛以及扩大使用范围。
 
 #### Project Website: https://mobile-aloha.github.io/
 
